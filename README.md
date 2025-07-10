@@ -1,4 +1,4 @@
-# SQL Customer Orders Project
+# SQL customer orders project
 
 
 This project demonstrates advanced SQL queries for analyzing customer orders. It includes:
@@ -9,12 +9,12 @@ This project demonstrates advanced SQL queries for analyzing customer orders. It
 - Extracting recent orders using timestamps  
 
 
-## Technologies Used
+## Technologies used
 - MySQL
 - SQL Window Functions
 - Aggregations & Joins
 
 
-## How to Use
+## How to use
 1. Download `customer_orders.sql`
 2. Run the script in your MySQL database
